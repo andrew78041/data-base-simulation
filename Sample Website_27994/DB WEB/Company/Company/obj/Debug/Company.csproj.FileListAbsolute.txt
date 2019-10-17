@@ -1,0 +1,10 @@
+/Users/apple/Desktop/DB WEB/Company/Company/obj/Debug/Company.csprojAssemblyReference.cache
+/Users/apple/Desktop/DB WEB/Company/Company/obj/Debug/Company.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/DB WEB/Company/Company/bin/Company.dll
+/Users/apple/Desktop/DB WEB/Company/Company/bin/Company.pdb
+/Users/apple/Desktop/DB WEB/Company/Company/obj/Debug/Company.dll
+/Users/apple/Desktop/DB WEB/Company/Company/obj/Debug/Company.pdb
+E:\projects\database1 project\Sample Website_27994\DB WEB\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+E:\projects\database1 project\Sample Website_27994\DB WEB\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+E:\projects\database1 project\Sample Website_27994\DB WEB\Company\Company\obj\Debug\Company.dll
+E:\projects\database1 project\Sample Website_27994\DB WEB\Company\Company\obj\Debug\Company.pdb
